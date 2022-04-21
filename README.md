@@ -11,7 +11,8 @@
 * Низкая цена
 
 
-'''.selector {
+'''css
+.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-} css'''
+} '''
